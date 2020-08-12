@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## github repostory
+
+you can show your name ,avatar , bio, email and your repostories you can say it like cv for your projects
 
 ### `yarn start`
 
