@@ -4,8 +4,13 @@
 
 you can show your name ,avatar , bio, email and your repostories you can say it like cv for your projects
 
-![screenshot] (screencapture-localhost-3000-2020-08-12-02_15_48.png)
 
+![Screenshot](screencapture-localhost-3000-2020-08-12-02_15_48.png)
+
+<p align="center">
+  <img src="https://github.com/mahmoudkhdre/github-rep/blob/master/screencapture-localhost-3000-2020-08-12-02_15_48.png" width="350" title="hover text">
+  <img src="https://github.com/mahmoudkhdre/github-rep/blob/master/screencapture-localhost-3000-2020-08-12-02_15_48.png" width="350" alt="accessibility text">
+</p>
 ### `yarn start`
 
 Runs the app in the development mode.<br />
