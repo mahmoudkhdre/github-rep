@@ -4,7 +4,7 @@
 
 you can show your name ,avatar , bio, email and your repostories you can say it like cv for your projects
 
-[screenshot] (https://github.com/mahmoudkhdre/github-rep/blob/master/screencapture-localhost-3000-2020-08-12-02_15_48.png)
+[screenshot] (creencapture-localhost-3000-2020-08-12-02_15_48.png)
 
 ### `yarn start`
 
