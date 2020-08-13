@@ -2,7 +2,7 @@
 
 ## github repostory
 
-you can show your name ,avatar , bio, email and your repostories you can say it like cv for your projects
+you can show your name ,avatar , bio, email and your repositories you can say it like cv for your projects
 
 
 ![Screenshot](screencapture-localhost-3000-2020-08-12-02_15_48.png)
